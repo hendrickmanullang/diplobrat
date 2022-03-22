@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 🎓 I recently graduated from Le Wagon's Software Development Boootcamp (batch 788).
+- 🎓 I recently graduated from Le Wagon's Software Development Bootcamp (batch 788).
 
 - 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus churners.
 
