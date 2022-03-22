@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus churners
+- 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus churners.
 
-- 🌱 I’m currently learning **JavaScript, React, and Node.js**
+- 🌱 I’m currently learning **JavaScript, React, and Node.js**.
 
-- 🔮 I looking to get into **Smart Contracts**
+- 🔮 I looking to get into **Smart Contracts**.
 
-- 💬 Ask me about **Personal Finance (Aus)** (I have 7+ years of experience in private wealth management)
+- 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
-- 📫 How to reach me **h.manullang@gmail.com**
+- 📫 How to reach me **h.manullang@gmail.com**.
 
-- ⚡ Fun fact **I once held the World Record for being the youngest person alive**
+- ⚡ Fun fact **I once held the World Record for being the youngest person alive**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
