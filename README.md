@@ -5,7 +5,7 @@
 
 - 🎓 I recently graduated from Le Wagon's Software Development Bootcamp (batch 788).
 
-- 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus churners.
+- 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus-based churners.
 
 - 🌱 I’m currently learning **JavaScript, React, and Node.js**.
 
