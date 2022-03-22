@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a credit card comparison site designed to assist regular credit card churners make a selection between credit card offers.
+- 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus churners.
 
 - 🌱 I’m currently learning **JavaScript, React, and Node.js**
 
