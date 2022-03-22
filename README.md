@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, and Node.js**.
 
-- 🔮 I looking to get into **Smart Contracts**.
+- 🔮 I'm looking to get into **Smart Contracts**.
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
