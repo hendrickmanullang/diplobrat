@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 🔭 I’m currently working on [ChurnIt](churnit.me)
+- 🔭 I’m currently working on [ChurnIt](www.churnit.me)
 
 - 🌱 I’m currently learning **JavaScript, React, and Node.js**
 
 - 💬 Ask me about **Personal Finance (Aus)**
 
 - 📫 How to reach me **h.manullang@gmail.com**
-
-- 📄 Know about my experiences [https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1ef2d4db-f109-43dc-95fa-dbda1dd288ec/Resume_2022_-_Hendrick_Manullang.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220322T013119Z&X-Amz-Expires=86400&X-Amz-Signature=ffcfe473801a006c55b942d8a26e5369b050c3e3f6b88919b83071e36ea884d4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Resume%25202022%2520-%2520Hendrick%2520Manullang.pdf%22&x-id=GetObject](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1ef2d4db-f109-43dc-95fa-dbda1dd288ec/Resume_2022_-_Hendrick_Manullang.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220322T013119Z&X-Amz-Expires=86400&X-Amz-Signature=ffcfe473801a006c55b942d8a26e5369b050c3e3f6b88919b83071e36ea884d4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Resume%25202022%2520-%2520Hendrick%2520Manullang.pdf%22&x-id=GetObject)
 
 - ⚡ Fun fact **I once held the World Record for being the youngest person alive.**
 
