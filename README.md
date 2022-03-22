@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 🔭 I’m currently working on [ChurnIt](www.churnit.me), a credit card comparison site designed to assist regular credit card churners make a selection between credit card offers.
+- 🔭 I’m currently working on [ChurnIt], a credit card comparison site designed to assist regular credit card churners make a selection between credit card offers. (www.churnit.me)
 
 - 🌱 I’m currently learning **JavaScript, React, and Node.js**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **h.manullang@gmail.com**
 
-- ⚡ Fun fact **I once held the World Record for being the youngest person alive.**
+- ⚡ Fun fact **I once held the World Record for being the youngest person alive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
