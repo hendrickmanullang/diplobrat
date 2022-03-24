@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus-based churners.
 
-- 🌱 I’m learning **JavaScript, React, and Node.js**.
+- 🌱 I’m trying to get better at **JavaScript, React, and Node.js**.
 
 - 🔮 I'm looking to get into **Smart Contracts**.
 
