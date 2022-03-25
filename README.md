@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I once held the World Record for being the youngest person alive**.
 
 <h3 align="left">Deployed Projects</h3>
+
 - [ChurnIt](http://www.churnit.me/) - a simple credit card comparison site for Aus-based churners.
 
 - [LearnIt](https://fantastic4learnit.herokuapp.com/) - a marketplace web app connecting tutors looking to sell their skills and students seeking to upskill.
