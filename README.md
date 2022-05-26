@@ -7,7 +7,7 @@
 
 - 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788).
 
-- 🌱 Fairly competent at **Ruby and Rails**, taking on **JavaScript, MongoDB, Express, React, and Node** and maybe **Java** next.
+- 🌱 Fairly decent at **Ruby and Rails**, taking on **JavaScript, MongoDB, Express, React, and Node** and maybe **Java** next.
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
