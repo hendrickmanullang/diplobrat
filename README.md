@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
-- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic) - if you're a knee surgeon, please get in touch I will need you soon.
+- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic) - if you're a knee surgeon, get in touch so I can put you on speed dial.
 
 - 📫 How to reach me **h.manullang@gmail.com**.
 
