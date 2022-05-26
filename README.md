@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hendrick</h1>
-<h3 align="center">A Junior Full-Stack Developer from Indonesia, currently based in Melbourne.</h3>
+<h3 align="center">A Junior Full-Stack Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 🎓 I recently graduated from Le Wagon's Software Development Bootcamp (batch 788).
+- 🎓 Currently enrolled in General Assembly's React Development (part-time). Graduated from Le Wagon's Software Development Bootcamp in April 2022 (batch 788).
 
-- 🔭 I’m currently working on [ChurnIt](http://www.churnit.me/), a simple credit card comparison site for Aus-based churners.
+- 🌱 Fairly competent at **Ruby and Rails**, taking on **JavaScript, MongoDB, Express, React, and Node** and maybe **Java** next.
 
-- 🌱 I’m trying to get better at **JavaScript, React, and Node.js**.
-
-- 🔮 I'm looking to get into **Smart Contracts**.
+- 🔮 Crypto gets a bad wrap but **Smart Contracts** is where it's at.
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
