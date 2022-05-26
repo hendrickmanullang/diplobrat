@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 📚 Currently enrolled in General Assembly's React Development (part-time). 
+- 📚 Currently enrolled in <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> (part-time). 
 
-- 🎓 Graduated from Le Wagon's Software Development Bootcamp in April 2022 (batch 788).
+- 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788).
 
 - 🌱 Fairly competent at **Ruby and Rails**, taking on **JavaScript, MongoDB, Express, React, and Node** and maybe **Java** next.
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
-- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic) - if you're a knee surgeon, please stick around as I wil likely need you soon.
+- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic) - if you're a knee surgeon, please get in touch I will need you soon.
 
 - 📫 How to reach me **h.manullang@gmail.com**.
 
