@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 📚 Currently enrolled in <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> (part-time). 
+- 📚 Currently enrolled in <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> course (part-time). 
 
 - 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788).
 
