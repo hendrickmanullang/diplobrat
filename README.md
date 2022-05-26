@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
-- 🎓 Currently enrolled in General Assembly's React Development (part-time). Graduated from Le Wagon's Software Development Bootcamp in April 2022 (batch 788).
+- 📚 Currently enrolled in General Assembly's React Development (part-time). 
+
+- 🎓 Graduated from Le Wagon's Software Development Bootcamp in April 2022 (batch 788).
 
 - 🌱 Fairly competent at **Ruby and Rails**, taking on **JavaScript, MongoDB, Express, React, and Node** and maybe **Java** next.
 
-- 🔮 Crypto gets a bad wrap but **Smart Contracts** is where it's at.
-
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
-- 📫 How to reach me **h.manullang@gmail.com**.
+- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic) - if you're a knee surgeon, please stick around as I wil likely need you soon.
 
-- ⚡ Fun fact **I once held the World Record for being the youngest person alive**.
+- 📫 How to reach me **h.manullang@gmail.com**.
 
 <h3 align="left">Deployed Projects</h3>
 
