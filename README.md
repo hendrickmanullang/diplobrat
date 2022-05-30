@@ -28,5 +28,5 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p align="left"> <a href="https://github.com/diplobrat?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplobrat&layout=compact"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diplobrat&show_icons=true&locale=en" alt="diplobrat" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diplobrat&show_icons=true&locale=en" alt="diplobrat" />
+<a href="https://github.com/diplobrat?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplobrat&layout=compact"></a></p>
