@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/diplobrat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplobrat&layout=compact)"></a>
+<p align="left"> <a href="https://github.com/diplobrat?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplobrat&layout=compact)"></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diplobrat&show_icons=true&locale=en" alt="diplobrat" /></p>
