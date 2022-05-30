@@ -32,8 +32,8 @@
   
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplobrat&theme=dark&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplobrat&theme=dark&layout=compact&exclude_repo=github-readme-stats">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=diplobrat&theme=dark&show_icons=true&locale=en" alt="diplobrat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=diplobrat&theme=dark&show_icons=true&locale=en&exclude_repo=github-readme-stats" alt="diplobrat" />
 </a>
