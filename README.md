@@ -1,5 +1,3 @@
-_<div align="center">Fail Fast, Fail Often, and Fail Cheap</div>_
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
 - 📚 Currently enrolled in <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> course (part-time). 
