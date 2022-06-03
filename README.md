@@ -6,7 +6,7 @@ _<div align="center">Fail Fast, Fail Often, and Fail Cheap</div>_
 
 - 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788).
 
-- 🌱 Decent at **Ruby and Rails**, currently taking on ** vanilla JavaScript, MongoDB, Express, React, and Node** (maybe **Java** next).
+- 🌱 Decent at **Ruby and Rails**, currently taking on **vanilla JS, MongoDB, Express, React, and Node** (maybe **Java** next).
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
