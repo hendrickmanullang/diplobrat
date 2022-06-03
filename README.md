@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hendrick</h1>
-<h3 align="center">A Junior Full-Stack Developer from Indonesia</h3>
+_<div align="center">Fail Fast, Fail Often, and Fail Cheap</div>_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diplobrat&label=Profile%20views&color=0e75b6&style=flat" alt="diplobrat" /> </p>
 
