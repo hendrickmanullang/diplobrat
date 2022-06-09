@@ -24,7 +24,7 @@
 <a href="https://instagram.com/hendrickmanullang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hendrickmanullang" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">For Nerds:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=diplobrat&theme=dark&show_icons=true&locale=en" alt="diplobrat" />
 </a>
