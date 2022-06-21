@@ -1,3 +1,5 @@
+<h3 align="left">Summary</h3>
+
 - 📚 Currently enrolled in <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> course (part-time). 
 
 - 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788).
