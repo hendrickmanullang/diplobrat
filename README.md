@@ -4,7 +4,7 @@
 
 - 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788).
 
-- 🌱 Decent at **Rails**, currently taking on **MERN** (maybe **Java** next).
+- 🌱 "Decent" at **Rails**, currently taking on **MERN** (maybe **Java** next).
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
