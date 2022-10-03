@@ -2,7 +2,7 @@
 
 - 💼 Currently working with <a href="https://auth0.com/">Auth0</a> as part of an Identity Access Management modernization project for a government business enterprise.
 
-- 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> and <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a>.
+- 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Web Development Bootcamp</a> and <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a>.
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
