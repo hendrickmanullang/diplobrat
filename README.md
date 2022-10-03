@@ -1,12 +1,12 @@
 <h3 align="left">Summary</h3>
 
-- 💼 Currently working on <a href="https://auth0.com/">Auth0</a> integration for a government business enterprise.
+- 💼 Currently working with <a href="https://auth0.com/">Auth0</a> as part of an Identity Access Management modernization project for a government business enterprise.
 
-- 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788) and <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> course (part-time).
+- 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> and <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a>.
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
-- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic) - if you're a knee surgeon, get in touch so I can put you on speed dial.
+- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic).
 
 - 📫 How to reach me **h.manullang@gmail.com**.
 
