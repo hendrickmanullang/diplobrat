@@ -1,10 +1,8 @@
 <h3 align="left">Summary</h3>
 
-- 📚 Currently enrolled in <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> course (part-time). 
+- 💼 Currently working on <a href="https://auth0.com/">Auth0</a> integration for a government business enterprise.
 
-- 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788).
-
-- 🌱 "Decent" at **Rails**, currently taking on **MERN** (maybe **Java** next).
+- 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Software Development Bootcamp</a> in April 2022 (batch 788) and <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a> course (part-time).
 
 - 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
 
