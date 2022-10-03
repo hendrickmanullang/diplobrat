@@ -1,6 +1,6 @@
 <h3 align="left">Summary</h3>
 
-- 💼 Currently working on <a href="https://auth0.com/">Auth0</a> as part of an Identity Access Management modernization project for a government business enterprise.
+- 💼 Currently working on <a href="https://auth0.com/">Auth0</a> for a government business enterprise.
 
 - 🎓 Graduated from <a href="https://www.lewagon.com/web-development-course/full-time">Le Wagon's Web Development Bootcamp</a> and <a href="https://generalassemb.ly/education/react-development-remote-online">General Assembly's React Development</a>.
 
