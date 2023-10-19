@@ -1,12 +1,12 @@
 <h3 align="left">Summary</h3>
 
-- 💼 Currently working on <a href="https://auth0.com/">Auth0</a> for a government business enterprise.
+- 💼 Business Analyst/Functional Consultant and hobbyist programmer.
 
-- 💬 Ask me about **Personal Finance (Aus)** - I have 7+ years of experience in private wealth management.
+- 🧑‍🎓 Incoming student (2024) at the USyd's [Graduate Certificate in Computer Science](https://www.sydney.edu.au/courses/courses/pc/graduate-certificate-in-computer-science.html). Currently learning [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms).
 
-- ⚡ I play volleyball (middle blocker) and am an avid weightlifter (olympic).
+- 💬 Reformed paraplanner. Ask me about **Personal Finance** - I have 7+ years of experience in private wealth management.
 
-- 📫 How to reach me **h.manullang@gmail.com**.
+- ⚡ I am an avid weightlifter (oly) and occasionally play volleyball (middle blocker).
 
 <h3 align="left">Deployed Projects</h3>
 
