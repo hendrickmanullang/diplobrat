@@ -1,8 +1,6 @@
 <h3 align="left">Summary</h3>
 
-- 💼 Business Analyst/Functional Consultant and hobbyist programmer.
-
-- 🧑‍🎓 Incoming student (2024) at the USyd's [Graduate Certificate in Computer Science](https://www.sydney.edu.au/courses/courses/pc/graduate-certificate-in-computer-science.html) - learning [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) in the meantime.
+- 💼 Business Analyst and hobbyist programmer.
 
 - 💬 Reformed paraplanner. Ask me about **Personal Finance** - I have 7+ years of experience in private wealth management.
 
